@@ -1,0 +1,29 @@
+.button 
+{
+-fx-background-color:#921A40;
+}
+.button:hover 
+{
+-fx-background-color:black;
+}
+.button:pressed{
+    -fx-background-color:#921A40;
+}
+.table-view .column-header,
+.table-view .column-header-background .filter{
+-fx-cell-size : 20;
+-fx-background-color: #921A40;
+}
+.table-view .column-header .label{
+-fx-text-fill: white;
+-fx-font-weight: bold;
+-fx-alignment: CENTER;
+}
+.container{
+-fx-background-color : rgba(255,255,255,0.2);
+-fx-background-radius : 10;
+
+}
+.gardient-background{
+-fx-background-color: linear-gradient(from 25% 25% to 100% 100%,#921A40,#921A40);
+}

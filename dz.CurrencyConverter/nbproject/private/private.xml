@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/dz.CurrencyConverter/src/dz/currencyconverter/models/HistoricalCurrency.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/dz.CurrencyConverter/src/dz/currencyconverter/repository/ConverterImp.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/dz.CurrencyConverter/src/dz/currencyconverter/controllers/DashboardController.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/dz.CurrencyConverter/src/dz/currencyconverter/connectionApi/ApiConnection.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/dz.CurrencyConverter/src/dz/currencyconverter/services/CurrencyService.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/dz.CurrencyConverter/src/dz/currencyconverter/services/HistoricalCurrencyService.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/dz.CurrencyConverter/src/dz/currencyconverter/DzCurrencyConverter.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/dz.CurrencyConverter/src/dz/currencyconverter/models/Currency.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/dz.CurrencyConverter/src/dz/currencyconverter/repository/Converter.java</file>
+            <file>file:/C:/Users/Dell/Documents/NetBeansProjects/dz.CurrencyConverter/src/dz/currencyconverter/connectionApi/JsonConversion.java</file>
+        </group>
+    </open-files>
+</project-private>
